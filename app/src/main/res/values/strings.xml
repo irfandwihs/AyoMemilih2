@@ -1,0 +1,93 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Ayo Memilih</string>
+    <string name="persiapan">Tahapan Persiapan</string>
+    <string name="tgl_awal">Tgl Awal</string>
+    <string name="tgl_akhir">Tgl Akhir</string>
+    <string name="satu">Perencanaan Program dan Anggaran</string>
+    <string name="penyelenggaraan">Tahapan Penyelenggaraan</string>
+    <string name="rekap">ANGGARAN PELAKSANAAN PEMILIHAN KEPALA DAERAH DAN WAKIL KEPALA DAERAH SERENTAK  TAHUN 2018 DI JAWA TENGAH</string>
+    <string name="uang">Politik Uang\n\n \t\t Politik uang
+Secara umum, politik uang (money politic) diartikan sebagai upaya yang dilakukan seseorang dengan tujuan untuk mempengaruhi orang lain dengan menggunakan imbalan tertentu.
+        Imbalan tersebut dapat berbentuk uang maupun barang tertentu.
+
+        \n\n\t\tBerikut sanksi bagi pemberi dan penerima politik uang seperti yang diatur dalam UU 10/2016 tentang Pemilihan Gubernur, Bupati, dan Wali Kota, serta Kitab Undang-Undang Hukum Pidana (KUHP).\n\n
+
+UU Nomor 10 Tahun 2016\n\n
+
+Pasal 187A
+\n\n (1) Setiap orang yang dengan sengaja melakukan perbuatan melawan hukum menjanjikan atau memberikan uang atau materi lainnya sebagai imbalan kepada warga negara Indonesia baik secara langsung ataupun tidak langsung untuk mempengaruhi pemilih agar tidak menggunakan hak pilih,
+        menggunakan hak pilih dengan cara tertentu sehingga suara menjadi tidak sah, memilih calon tertentu, atau tidak memilih calon tertentu sebagaimana dimaksud pada
+        Pasal 73 Ayat (4) dipidana dengan pidana penjara paling singkat 36 (tiga puluh enam) bulan dan paling lama 72 (tujuh puluh dua) bulan dan denda paling sedikit Rp 200.000.000 (dua ratus juta rupiah) dan paling banyak Rp 1.000.000.000 (satu miliar rupiah).
+
+\n\n (2) Pidana yang sama diterapkan kepada pemilih yang dengan sengaja melakukan perbuatan melawan
+hukum menerima pemberian atau janji sebagaimana dimaksud pada Ayat (1).
+\n\n
+KUHP\n
+
+BAB V
+Penyertaan dalam Tindak Pidana\n
+
+Pasal 55
+\n\n(1) Dipidana sebagai pelaku tindak pidana:
+\n\t\t1. mereka yang melakukan, yang menyuruh melakukan, dan yang turut serta melakukan perbuatan;
+\n\n\t\t2. mereka yang dengan memberi atau menjanjikan sesuatu dengan menyalahgunakan kekuasaan atau martabat, dengan kekerasan, ancaman atau penyesatan, atau dengan memberi kesempatan, sarana atau keterangan, sengaja menganjurkan orang lain supaya melakukan perbuatan.
+
+\n\n(2) Terhadap penganjur, hanya perbuatan yang sengaja dianjurkan sajalah yang diperhitungkan, beserta akibat-akibatnya.
+
+\n\nPasal 149
+        \n\n(1) Barang siapa pada waktu diadakan pemilihan berdasarkan aturan-aturan umum, dengan memberi atau menjanjikan sesuatu, menyuap seseorang supaya tidak memakai hak pilihnya atau supaya memakai hak itu menurut cara tertentu, diancam dengan pidana penjara paling lama sembilan bulan atau pidana denda paling lama empat ribu lima ratus rupiah.
+
+\n\n(2) Pidana yang sama diterapkan kepada pemilih, yang dengan menerima pemberian atau janji, mau disuap.</string>
+
+    <string name="sara">Politik Identitas\n\n \t\t Politik identitas berpusat pada politisasi identitas bersama atau perasaan \'kekitaan\' yang menjadi basis utama perekat kolektivitas kelompok.\n
+Identitas dipolitisasi melalui interpretasi secara ekstrim, yang bertujuan untuk mendapat dukungan dari orang-orang yang merasa \'sama\', baik secara ras, etnisitas, agama, maupun elemen perekat lainnya.\n\n
+\t\tPuritanisme atau ajaran kemurnian atau ortodoksi juga berandil besar dalam memproduksi dan mendistribusikan ide ‘kebaikan’ terhadap anggota secara satu sisi, sambil di sisi lain menutup nalar perlawanan atau kritis anggota kelompok identitas tertentu.
+Politik identitas, menurut Abdillah (2002) merupakan politik yang fokus utama kajian dan permasalahannya menyangkut perbedaan-perbedaan yang didasarkan atas asumsi-asumsi fisik tubuh, politik etnisitas atau primordialisme, dan pertentangan agama, kepercayaan, atau bahasa.\n\n
+\t\tPolitik identitas hadir sebagai narasi resisten kelompok terpinggirkan akibat kegagalan narasi arus utama mengakomodir kepentingan minoritas; secara positif, politik identitas menghadirkan wahana mediasi penyuaraan aspirasi bagi yang tertindas.
+Fitur dikotomi oposisional menjadi fondasi utama yang membedakan perasaan kolektivitas ke-kita-an terhadap yang lain. Tetapi kenyataannya, pada tataran individual di era modernisasi yang serba mekanik, muncul ‘kegagapan’ untuk memahami struktur masyakarat yang plural, maka intoleransi semakin meningkat.\n\n
+\t\tPendeknya, terjadi ketidaksesuaian social imagination atau imajinasi sosial tentang kehidupan sehari-hari manusia modern dan interaksinya dengan masyarakat umum.</string>
+
+    <string name="hoax">Isu Hoax\n\n
+        \t\tHoax adalah berita yang tidak tahu kebenarannya.
+
+        \n\n\t\tPasal 28 ayat 1 Undang Undang Informasi dan Transaksi Elektronik (UU ITE).
+
+\n\n\t\tSesuai ketentuan dalam pasal tersebut, pada ayat 1 mengatur setiap orang dilarang untuk menyebarkan berita bohong.
+
+
+\n\n\t\t"Setiap orang dengan sengaja dan tanpa hak menyebarkan berita bohong dan menyesatkan yang mengakibatkan kerugian konsumen dalam Transaksi Elektronik," demikian ketentuan ayat 1 pasal 28 UU ITE.
+
+\n\n\t\tDalam ayat kedua pasal tersebut, juga terdapat ketentuan larangan kepada setiap orang untuk menyebarkan informasi yang menimbulkan kebencian.
+
+\n\n\t\t"Setiap orang dengan sengaja dan tanpa hak menyebarkan informasi yang ditujukan untuk menimbulkan rasa kebencian atau permusuhan individu dan/atau kelompok masyarakat tertentu berdasarkan atas suku, agama, ras, dan antargolongan (SARA)," bunyi ayat 2 pasal 28 UU ITE.
+
+\n\n\t\tDalam bab ketentuan pidana pada UU ITE tercantum rincian ancaman pidana penyebar hoax.
+
+\n\n\t\tPasal 45 atau 2 UU ITE berbunyi setiap orang yang memenuhi unsur yang dimaksud dalam pasal 28 ayat 1 atau ayat 2 maka dipidana penjara paling lama enam tahun dan atau denda paling banyak Rp1 miliar.
+
+\n\n\t\tSelain pasal 28 tersebut, menurut kabar pesan berantai yang beredar di WhatsApp, penyebar hoax juga bisa dijerat dengan Undang-Undang Nomor 1 Tahun 1946 tentang Peraturan Hukum Pidana.
+
+\n\n\t\tDalam UU tersebut, ada dua pasal yang bisa menjerat penyebar hoax yaitu pasal 14 dan pasal 15.
+
+\n\n\t\tPasal 14
+
+\n\n\t\t(1) Barangsiapa, dengan menyiarkan berita atau pemberitahuan bohong, dengan sengaja menerbitkan keonaran dikalangan rakyat, dihukum dengan hukuman penjara setinggi-tingginya sepuluh tahun.
+
+\n\n\t\t(2) Barangsiapa menyiarkan suatu berita atau mengeluarkan pemberitahuan yang dapat menerbitkan keonaran di kalangan rakyat, sedangkan la patut dapat menyangka bahwa berita atau pemberitahuan itu adalah bohong, dihukum dengan penjara setinggi-tingginya tiga tahun.
+
+\n\n\t\tPasal 15:
+
+\n\n\t\tBarangsiapa menyiarkan kabar yang tidak pasti atau kabar yang berkelebihan atau yang tidak lengkap, sedangkan ia mengerti setidak-tidaknya patut dapat menduga bahwa kabar demikian akan atau sudah dapat menerbitkan keonaran di kalangan rakyat, dihukum dengan hukuman penjara setinggi, tingginya dua tahun.
+</string>
+    <string name="info">
+        \t\tAyoMemilih adalah aplikasi untuk memberikan informasi  mengenai calon gubernur jateng dan wakil gubernur.
+        Aplikasi ini terdapat banyak info antara lain KPU, profil, dan edukasi.
+        \n\n\t\tPertama KPU, didalam KPU ini terdapat dua menu yaitu tahapan yang berisikan tentang tahapan persiapan, dan tahapan penyelenggaraan pilkada. Menu selanjutnya yaitu rekap anggaran, disini berisikan info anggaran pelaksanaan pilkada.
+        \n\n\t\tKedua Profil, nah di profil ini termasuk bagian yang sangat penting dari aplikasi AyoMemilih, karena disinilah yang memberikan info dari calon gubernur dan wakil gubernur. Mulai dari visi misi setiap calon dan partai pendukung calon gubernur. Dan di profil ini sudah disertakan gambar calon.
+        \n\n\t\tYang ke tiga atau terakhir yaitu edukasi, disini terdapat 3 menu edukasi yaitu pembelajaran tentang politik uang, politik identitas, dan isu hoax. Seperti pada umumnya didalam menu menu tersebut hanya memberikan materi atau pembelajaran tentang politik dll.
+
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

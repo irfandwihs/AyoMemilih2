@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.EdukasiActivity"
+    android:orientation="horizontal"
+    android:background="@drawable/bg_kpu_new"
+    android:baselineAligned="false">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="50dp"
+        android:layout_marginTop="50dp"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:layout_width="236dp"
+            android:layout_height="65dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="181dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/sara"
+            android:onClick="sara" />
+
+        <ImageButton
+            android:id="@+id/imageButton3"
+            android:layout_width="236dp"
+            android:layout_height="65dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="143dp"
+            android:background="@drawable/hoax"
+            android:onClick="hoax" />
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="236dp"
+            android:layout_height="65dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="75dp"
+            android:background="@drawable/uang"
+            android:onClick="uang" />
+
+
+    </RelativeLayout>
+
+</LinearLayout>

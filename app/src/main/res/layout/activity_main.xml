@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.MainActivity"
+    android:orientation="vertical"
+    android:background="@drawable/home_kpu_new">
+
+    <ImageButton
+        android:id="@+id/profil"
+        android:layout_width="236dp"
+        android:layout_height="65dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="231dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/profil"
+        android:onClick="dua" />
+
+    <ImageButton
+        android:id="@+id/exit"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginLeft="265dp"
+        android:background="@drawable/close"
+        android:onClick="goExit" />
+
+    <ImageButton
+        android:id="@+id/info"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginLeft="65dp"
+        android:onClick="about"
+        android:background="@drawable/info" />
+
+    <ImageButton
+        android:id="@+id/edukasi"
+        android:layout_width="236dp"
+        android:layout_height="65dp"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/profil"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/edu"
+        android:onClick="tiga" />
+
+    <ImageButton
+        android:id="@+id/kpu"
+        android:layout_width="236dp"
+        android:layout_height="65dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="141dp"
+        android:layout_marginBottom="55dp"
+        android:background="@drawable/kpu"
+        android:onClick="satu" />
+
+</RelativeLayout>
